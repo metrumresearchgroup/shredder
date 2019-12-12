@@ -7,6 +7,8 @@ addons:
   apt:
     packages:
     - g++
+r_packages:
+- devtools
 r_github_packages:
 - metrumresearchgroup/covrpage
 - metrumresearchgroup/pkgdown
