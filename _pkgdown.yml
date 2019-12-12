@@ -35,7 +35,6 @@ articles:
   - title: "Usage"
     contents:
       - rstan
-      - brms
   - title: "Extending"
     contents:
       - tidybayes
