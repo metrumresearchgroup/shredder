@@ -12,7 +12,7 @@
 <!-- badges: start -->
 
 [![Covrpage
-Summary](https://img.shields.io/badge/covrpage-Last_Build_2019_12_19-brightgreen.svg)](http://tinyurl.com/s3fr6gn)
+Summary](https://img.shields.io/badge/covrpage-Last_Build_2020_02_07-brightgreen.svg)](http://tinyurl.com/s3fr6gn)
 [![Travis build
 status](https://travis-ci.org/metrumresearchgroup/shredder.svg?branch=master)](https://travis-ci.org/metrumresearchgroup/shredder)
 [![Codecov test
